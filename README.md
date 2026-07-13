@@ -10,9 +10,7 @@ Associate Director Aspirant | Operations Excellence | Business Transformation | 
 
 Welcome to my professional portfolio.
 
-This repository serves as an overview of my work in Operations Management, Business Transformation, Process Improvement, Workforce Management, Business Intelligence, Automation, and Data Analytics.
-
-Throughout my career, I have focused on improving operational efficiency, enhancing customer experience, optimizing workforce productivity, and enabling data-driven decision making through technology and continuous improvement.
+This portfolio showcases how I solve complex business challenges by combining operational leadership, business transformation, data analytics, and process automation. Each project reflects practical, real-world solutions focused on improving operational efficiency, enhancing customer experience, optimizing workforce performance, and delivering measurable business outcomes.
 
 ---
 
